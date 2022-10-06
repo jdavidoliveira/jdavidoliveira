@@ -1,16 +1,11 @@
-### Hi there 👋
+# ✨Howdyyy✨Eu sou o **David** e seja bem-vindo ao meu perfil *!!!*
 
-<!--
-**lordaval/lordaval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## `console.log("Bora Codar");`  
+  
+  
+ ## Acesse [aqui](https://github.com/lordaval/portfolio) o meu portfolio!
+   
+## 🛠 Tecnologias
+- HTML
+- CSS
+- JavaScript
