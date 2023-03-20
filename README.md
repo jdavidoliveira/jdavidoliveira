@@ -1,5 +1,4 @@
-# ✨Howdyyy✨Eu sou o **David** e seja bem-vindo ao meu perfil *!!!*
-
+# ✨Eu sou o David, e seja bem-vindo ao meu perfil✨
 ## `console.log("Bora Codar");`  
   
   
