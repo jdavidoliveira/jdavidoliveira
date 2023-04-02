@@ -1,4 +1,4 @@
-# ✨Eu sou o David, e seja bem-vindo ao meu perfil✨
+# Eu sou o David, desenvolvedor front-end jr.
 ## `console.log("Bora Codar");`  
   
   
