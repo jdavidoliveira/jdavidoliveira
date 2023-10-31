@@ -1,16 +1,55 @@
 # Olá, sou o David!
 
-## `console.log("Bora Codar");`  
-
-## Sobre mim
-
 Sou um desenvolvedor apaixonado por tecnologia e programação. Sempre em busca de novos desafios e aprendizados.
+
 
 ## 🌐 Meu Portfolio
 
-Confira o meu portfolio [aqui](https://lordaval.github.io/portfolio) para ver alguns dos meus projetos e trabalhos.
+Confira o meu portfolio clicando [aqui](https://lordaval.github.io/portfolio) para ver alguns dos meus projetos e trabalhos.
 
-## 🛠 Tecnologias
+<br>
+
+ <div align="center">
+  <a href="https://github.com/Rodrigo-Cn"> 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lordaval&show_icons=true&theme=algolia"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordaval&layout=compact&langs_count=7&theme=algolia" alt="Top Langs"/>
+  </a>
+</div>
+<br>
+
+## Habilidades:
+<div style="display: flex; gap: 2rem;">
+<!--   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img align="center" alt="JS" h height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
+  <img align="center" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" />
+  <img align="center" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="40" width="40" /> 
+  <img align="center" alt="Java" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="MySQL" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="MySQL" height="40" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+ </div>
+ <br>
+ <br>
+ 
+## Contato Profissional:
+<div> 
+  <a href="mailto:lordaval1117@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/lordaval_pk/" target="_blank" align="center"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joao-david-de-oliveira-carneiro/" target="_blank" align="center"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<br>
+<br>
+
+## Minhas Estatísticas:
+[![trophy](https://github-profile-trophy.vercel.app/?username=lordaval&theme=onestar&no-frame=true&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+</div>
+ <br>
+<div align="center">
+<br><p align="centre"><b>Contador de Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lordaval}/count.svg" /></p> 
+<br></div>
+
+<!-- ## 🛠 Tecnologias
 
 Aqui estão algumas das tecnologias com as quais trabalho:
 
@@ -35,3 +74,4 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 ## 📈 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lordaval&show_icons=true&theme=radical)
+-->
