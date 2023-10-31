@@ -10,7 +10,7 @@ Confira o meu portfolio clicando [aqui](https://lordaval.github.io/portfolio) pa
 <br>
 
  <div align="center">
-  <a href="https://github.com/Rodrigo-Cn"> 
+  <a href="https://github.com/lordaval"> 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lordaval&show_icons=true&theme=algolia"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordaval&layout=compact&langs_count=7&theme=algolia" alt="Top Langs"/>
   </a>
