@@ -5,7 +5,7 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Sempre em busca 
 
 ## 🌐 Meu Portfolio
 
-Confira o meu portfolio clicando [aqui](https://lordaval.github.io/portfolio) para ver alguns dos meus projetos e trabalhos.
+Confira o meu portfolio clicando [aqui](https://jdavid-portfolio.vercel.app/) para ver alguns dos meus projetos e trabalhos.
 
 <br>
 
