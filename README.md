@@ -5,7 +5,7 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Sempre em busca 
 
 ## 🌐 Meu Portfolio
 
-Confira o meu portfolio clicando [aqui](https://jdavid-portfolio.vercel.app/) para ver alguns dos meus projetos e trabalhos.
+Confira o meu portfolio clicando [aqui](https://lordaval.vercel.app/) para ver alguns dos meus projetos e trabalhos.
 
 <br>
 
@@ -33,8 +33,8 @@ Confira o meu portfolio clicando [aqui](https://jdavid-portfolio.vercel.app/) pa
  
 ## Contato Profissional:
 <div> 
-  <a href="mailto:lordaval1117@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/lordaval_pk/" target="_blank" align="center"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:djoao6757@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/davidj.js/" target="_blank" align="center"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-david-de-oliveira-carneiro/" target="_blank" align="center"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <br>
 <br>
