@@ -3,7 +3,7 @@
 Sou um desenvolvedor apaixonado por tecnologia e programação. Sempre em busca de novos desafios e aprendizados.
 
 
-## 🌐 Meu Portfolio
+## 🌐 Portfolio
 
 Confira o meu portfolio clicando [aqui](https://lordaval.vercel.app/) para ver alguns dos meus projetos e trabalhos.
 
@@ -38,7 +38,7 @@ Confira o meu portfolio clicando [aqui](https://lordaval.vercel.app/) para ver a
 <br>
 <br>
 
-## Minhas Estatísticas:
+## Estatísticas:
 [![trophy](https://github-profile-trophy.vercel.app/?username=lordaval&theme=onestar&no-frame=true&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
  
 </div>
