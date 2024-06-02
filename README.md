@@ -1,6 +1,6 @@
 # Hi there✌️
 
-#### Prazer, me chamo David e sou um desenvolvedor Full Stack apaixonado por tecnologia. Sinta-se à vontade para falar comigo ou ver qualquer projeto, estou aberto a te ajudar em qualquer coisa que você precisar 😊.
+Prazer, me chamo David e sou um desenvolvedor Full Stack apaixonado por tecnologia. Sinta-se à vontade para falar comigo ou ver qualquer projeto, estou aberto a te ajudar em qualquer coisa que você precisar 😊.
 
 #### Se liga no meu [portfólio](https://lordaval.vercel.app/) para ver alguns dos meus trabalhos e projetos.
 
