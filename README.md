@@ -15,8 +15,8 @@ Prazer, me chamo David e sou um desenvolvedor apaixonado por tecnologia. Sinta-s
 
  <div align="left">
   <a href="https://github.com/lordaval"> 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordaval&layout=compact&langs_count=7&theme=algolia" alt="Top Langs"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lordaval&show_icons=true&theme=algolia"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdavidoliveira&layout=compact&langs_count=7&theme=algolia" alt="Top Langs"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdavidoliveira&show_icons=true&theme=algolia"/>
   </a>
 </div>
 
